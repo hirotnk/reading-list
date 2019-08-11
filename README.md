@@ -2,11 +2,20 @@
 
 
 ## Programming Language
-### Lambda Lifting
+
+
+### Erlang/Elixir
+- Armstrong, J. Making Reliable Distributed Systems in the Presence of Errors. Ph.D. Thesis, Royal Institute of Technology, Stockholm, 2003.
+
+- Erlang Rationale, Virding, R: https://drive.google.com/file/d/1zKsOgwZJ_YZ1bY3b3gNRjAxpn6VneR8b/view
+
+### Programming language concepts
+#### Lambda Lifting
 - Johnsson T. (1985) Lambda lifting: Transforming programs to recursive equations. In: Jouannaud JP. (eds) Functional Programming Languages and Computer Architecture. FPCA 1985. Lecture Notes in Computer Science, vol 201. Springer, Berlin, Heidelberg
 
-### Liskov substitution principle (LSP)
+#### Liskov substitution principle (LSP)
 - Behavioral Subtyping Using Invariants and Constraints, 1999
+
 
 ## Distributed Systems
 

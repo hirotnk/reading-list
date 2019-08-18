@@ -31,3 +31,9 @@ USENIX conf
 ### HyperLogLog
   - https://en.wikipedia.org/wiki/HyperLogLog
   - 2007 paper: http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf
+
+
+## Books on Github
+
+  - The BEAM Book :https://github.com/happi/theBeamBook
+  - Linux Insides :https://0xax.gitbooks.io/linux-insides/content/index.html

@@ -16,6 +16,9 @@
 #### Liskov substitution principle (LSP)
 - Behavioral Subtyping Using Invariants and Constraints, 1999
 
+### Software design
+#### Design patterns on protocols
+-  Arguments and Results by James Noble - In PLOP Proceedings , 1997 http://citeseerx.ist.psu.edu/showciting?cid=3357705
 
 ## Distributed Systems
 

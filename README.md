@@ -36,8 +36,9 @@
 
 ## Classes
 - Mining of Massive Data Sets :http://www.mmds.org/
-- Programming Models for Distributed Computation :https://github.com/heathermiller/dist-prog-book
+- Stevens, AUPE :https://stevens.netmeister.org/631/
 - Advanced data structures :https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/
+- Programming Models for Distributed Computation :https://github.com/heathermiller/dist-prog-book
 
 ## Resources for Papers
 - Misreading Chat :https://misreading.chat/

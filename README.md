@@ -9,11 +9,8 @@
 
 ### Programming language concepts
 
-#### Lambda Lifting
-- [ ] Johnsson T. (1985) Lambda lifting: Transforming programs to recursive equations. In: Jouannaud JP. (eds) Functional Programming Languages and Computer Architecture. FPCA 1985. Lecture Notes in Computer Science, vol 201. Springer, Berlin, Heidelberg
-
-#### Liskov substitution principle (LSP)
-- [ ] Behavioral Subtyping Using Invariants and Constraints, 1999
+- [ ] Johnsson T. (1985) Lambda lifting: Transforming programs to recursive equations
+- [ ] B.H. Liskov and J.M. Wing, Behavioral Subtyping Using Invariants and Constraints, CMU-CS-99-156, July 1999.
 
 ### Software design
 
@@ -42,6 +39,7 @@ USENIX conf
 ## Classes
 - Mining of Massive Data Sets :http://www.mmds.org/
 - Programming Models for Distributed Computation :https://github.com/heathermiller/dist-prog-book
+- Advanced data structures :https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/
 
 ## Resources for Papers
 - the morning paper :https://blog.acolyer.org/

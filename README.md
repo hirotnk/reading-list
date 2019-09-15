@@ -4,26 +4,24 @@
 ## Programming Language
 
 ### Erlang/Elixir
-- [x] Armstrong, J. Making Reliable Distributed Systems in the Presence of Errors. Ph.D. Thesis, Royal Institute of Technology, Stockholm, 2003.
+- [x] Armstrong, J. Making Reliable Distributed Systems in the Presence of Errors, 2003.
 - [x] Erlang Rationale, Virding, R: https://drive.google.com/file/d/1zKsOgwZJ_YZ1bY3b3gNRjAxpn6VneR8b/view
+- [ ] Practical type inference based on success typings. DOI=http://dx.doi.org/10.1145/1140335.1140356 
 
 ### Programming language concepts
 
 - [ ] Johnsson T. (1985) Lambda lifting: Transforming programs to recursive equations
 - [ ] B.H. Liskov and J.M. Wing, Behavioral Subtyping Using Invariants and Constraints, CMU-CS-99-156, July 1999.
 
-### Software design
-
-#### Design patterns on protocols
+#### Design patterns
 - [x] Arguments and Results by James Noble - In PLOP Proceedings , 1997 http://citeseerx.ist.psu.edu/showciting?cid=3357705
 
 ## Distributed Systems
-- [ ] Real-Time Event Time Series Aggregation at Twitter. In Proceedings of the 2018 DOI: https://doi.org/10.1145/3183713.3190663
+- [X] Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications. 2003
+- [ ] Real-Time Event Time Series Aggregation at Twitter. 2018 DOI: https://doi.org/10.1145/3183713.3190663
 - [ ] Twitter Heron: Stream Processing at Scale. 2015 DOI: https://doi.org/10.1145/2723372.2742788
-- [ ] Spark: M. Zaharia, M. Chowdhury, M. Franklin, S. Shenker, andI. Stoica. Spark: cluster computing with working sets. InHotCloud, 2010. http://static.usenix.org/events/hotcloud10/tech/full_papers/Zaharia.pdf
-
-- [ ] Zookeeper: P. Hunt, M. Konar, F.P. Junqueira, B. Reed, ZooKeeper: wait-free coordination for internet-scale systems, in: Proceedings of the 2010
-USENIX conf
+- [ ] Spark, 2010. http://static.usenix.org/events/hotcloud10/tech/full_papers/Zaharia.pdf
+- [ ] ZooKeeper: wait-free coordination for internet-scale systems. 2010, USENIX conf
 
 ## Blogs
 - Paul Graham Essays :http://www.paulgraham.com/articles.html
@@ -42,8 +40,8 @@ USENIX conf
 - Advanced data structures :https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/
 
 ## Resources for Papers
-- the morning paper :https://blog.acolyer.org/
 - Misreading Chat :https://misreading.chat/
+- the morning paper :https://blog.acolyer.org/
 - Papers We love :https://github.com/papers-we-love/papers-we-love
 
 ## Universities

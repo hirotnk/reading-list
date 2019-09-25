@@ -44,6 +44,7 @@
 - Misreading Chat :https://misreading.chat/
 - the morning paper :https://blog.acolyer.org/
 - Papers We love :https://github.com/papers-we-love/papers-we-love
+- Turing Lectures :https://amturing.acm.org/lectures.cfm
 
 ## Universities
 - MIT, Parallel & Distributed Operating Systems Group :https://pdos.csail.mit.edu/publications/#/

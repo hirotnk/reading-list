@@ -22,6 +22,7 @@
 - [ ] Twitter Heron: Stream Processing at Scale. 2015 DOI: https://doi.org/10.1145/2723372.2742788
 - [ ] Spark, 2010. http://static.usenix.org/events/hotcloud10/tech/full_papers/Zaharia.pdf
 - [ ] ZooKeeper: wait-free coordination for internet-scale systems. 2010, USENIX conf
+- [X] Cap Twelve Years Later: How the "Rules" Have Changed. 2012
 
 ## Blogs
 - Paul Graham Essays :http://www.paulgraham.com/articles.html

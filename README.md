@@ -13,6 +13,9 @@
 - [ ] Johnsson T. (1985) Lambda lifting: Transforming programs to recursive equations
 - [ ] B.H. Liskov and J.M. Wing, Behavioral Subtyping Using Invariants and Constraints, CMU-CS-99-156, July 1999.
 
+### Design
+- [x] On the Criteria To Be Used in Decomposing Systems into Modules by D.L.Parnas, December 1972.
+
 #### Design patterns
 - [x] Arguments and Results by James Noble - In PLOP Proceedings , 1997 http://citeseerx.ist.psu.edu/showciting?cid=3357705
 

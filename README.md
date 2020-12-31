@@ -58,6 +58,7 @@
 - Google publications :https://ai.google/research/pubs/
 - Facebook publications :https://research.fb.com/publications/
 - Netflix research :https://research.netflix.com/
+- Uber Engineering :https://eng.uber.com/
 
 
 ## CS fundamentals

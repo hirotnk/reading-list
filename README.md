@@ -27,6 +27,10 @@
 - [ ] ZooKeeper: wait-free coordination for internet-scale systems. 2010, USENIX conf
 - [X] Cap Twelve Years Later: How the "Rules" Have Changed. 2012
 
+## Cloud Systems
+- [ ] Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider: https://www.usenix.org/conference/atc20/presentation/shahrad
+- [ ] New Directions in Cloud Programming: https://arxiv.org/abs/2101.01159 ([video](https://www.youtube.com/watch?v=FeRg-7Sr1L8))
+
 ## Blogs
 - Paul Graham Essays :http://www.paulgraham.com/articles.html
 - Joel on Software :https://www.joelonsoftware.com/
@@ -37,6 +41,7 @@
 - The BEAM Book :https://github.com/happi/theBeamBook
 - Linux Insides :https://0xax.gitbooks.io/linux-insides/content/index.html
 - Mostly Adequate Guide to Functional Programming :https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
+- Forecasting: Principles and Practice: https://otexts.com/fpp2/
 
 ## Classes
 - Mining of Massive Data Sets :http://www.mmds.org/

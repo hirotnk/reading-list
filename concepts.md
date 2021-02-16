@@ -1,0 +1,6 @@
+- Conway's Law
+- Law of Demeter
+  - https://en.wikipedia.org/wiki/Law_of_Demeter
+  - https://www.michaelnygard.com/blog/2020/07/narrow-but-deep/
+- Chesterton's fence
+  - https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence

@@ -30,6 +30,8 @@
 ## Cloud Systems
 - [ ] Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider: https://www.usenix.org/conference/atc20/presentation/shahrad
 - [ ] New Directions in Cloud Programming: https://arxiv.org/abs/2101.01159 ([video](https://www.youtube.com/watch?v=FeRg-7Sr1L8))
+- [ ] Cloud Programming Simplified: A Berkeley View onServerless Computing :https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf
+- [ ] What bugs caused cloud production indidents? (from morning paper) :https://blog.acolyer.org/2019/06/21/what-bugs-cause-cloud-production-incidents/
 
 ## Blogs
 - Paul Graham Essays :http://www.paulgraham.com/articles.html

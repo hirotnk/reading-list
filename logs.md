@@ -1,3 +1,25 @@
+# Microservice Fundamental
+2021-02-18 Thu, Sam Newman webinar
+
+## Summary
+- Microservices are all about independent deployability (cost of communication is high)
+- Information hiding is key to reduce coupling
+- Use domain-driven design to find service boundaries
+
+## DDD
+- [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
+
+## Links
+- [Implementing Microservices Communication](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/ch04.html)
+- [Data Source Architectual Pattern](https://learning.oreilly.com/library/view/patterns-of-enterprise/0321127420/ch10.xhtml)
+- [Managing Components and dependencies](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/ch13.html)
+- [Release it! 2nd edition](https://learning.oreilly.com/library/view/release-it-2nd/9781680504552/)
+- [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/)
+- [What is obserbability?](https://learning.oreilly.com/library/view/observability-engineering/9781492076438/ch01.html#what_is_observability)
+- [The Evolution of Microservices with Adrian Cockroft](https://learning.acm.org/techtalks/microservices)
+
+<br/>
+---  
 # Microservice Collaboration
 2021-02-16 Tue, Sam Newman webinar
 
@@ -20,6 +42,8 @@
 ### Rest
 - [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
 - [Rest in Practice](https://learning.oreilly.com/library/view/rest-in-practice/9781449383312/)
+### OpenAPI, Swagger
+### Jason schema
 
 ### HTTP Status Dog
 - https://httpstatusdogs.com/
@@ -35,6 +59,7 @@
 - https://microservices.io/patterns/data/saga.html
 
 
+<br/>
 ---
 #  Microservices Application Decomposition
 2021-02-10 Wed, Sam Newman webinar

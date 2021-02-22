@@ -15,11 +15,12 @@
 - [Managing Components and dependencies](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/ch13.html)
 - [Release it! 2nd edition](https://learning.oreilly.com/library/view/release-it-2nd/9781680504552/)
 - [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/)
+   - [Ch 14. Handling Versions](https://learning.oreilly.com/library/view/release-it-2nd/9781680504552/f_0121.xhtml#versioning)
 - [What is obserbability?](https://learning.oreilly.com/library/view/observability-engineering/9781492076438/ch01.html#what_is_observability)
 - [The Evolution of Microservices with Adrian Cockroft](https://learning.acm.org/techtalks/microservices)
 
 <br/>
----  
+
 # Microservice Collaboration
 2021-02-16 Tue, Sam Newman webinar
 
@@ -60,7 +61,7 @@
 
 
 <br/>
----
+
 #  Microservices Application Decomposition
 2021-02-10 Wed, Sam Newman webinar
 

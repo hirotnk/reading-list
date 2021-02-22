@@ -38,6 +38,7 @@
 - Joel on Software :https://www.joelonsoftware.com/
 - Erlang/OTP team :http://blog.erlang.org/
 - Erlang Solutions :https://www.erlang-solutions.com/blog.html
+- Michael Nygard :https://www.michaelnygard.com/
 
 ## Books (Online)
 - The BEAM Book :https://github.com/happi/theBeamBook
